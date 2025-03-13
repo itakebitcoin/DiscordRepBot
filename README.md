@@ -37,12 +37,12 @@ Create a `config.json` file in the root directory of the project with the follow
 ```json
 {
     "bot_token": "YOUR_BOT_TOKEN",
-    "target_channel_id": 1074172277828100126,
+    "target_channel_id": CHANNEL_ID_HERE,
     "ratings_file": "ratings.json"
 }
 ```
 
-Replace `YOUR_BOT_TOKEN` with your actual Discord bot token and `1074172277828100126` with the ID of the target channel where the bot will listen for commands.
+Replace `YOUR_BOT_TOKEN` with your actual Discord bot token and `CHANNEL_ID_HERE` with the ID of the target channel where the bot will listen for commands.
 
 ## Running the Bot
 
