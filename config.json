@@ -1,0 +1,5 @@
+{
+    "bot_token": "BOT_TOKEN_HERE",
+    "target_channel_id": CHANNEL_ID_HERE,
+    "ratings_file": "ratings.json"
+}
