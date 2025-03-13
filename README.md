@@ -199,7 +199,7 @@ The configuration file that contains the bot token, target channel ID, and the n
 ```json
 {
     "bot_token": "YOUR_BOT_TOKEN",
-    "target_channel_id": 1074172277828100126,
+    "target_channel_id": CHANNEL_ID_HERE,
     "ratings_file": "ratings.json"
 }
 ```
